@@ -5,3 +5,4 @@ public class sample
     System.out.println("hai good morning");
     System.out.println("how are you");
     System.out.println("i am fine");
+    System.out.println(" have a breakfast");
